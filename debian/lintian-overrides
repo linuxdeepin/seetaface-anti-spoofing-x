@@ -1,0 +1,2 @@
+seetaface-anti-spoofing-x: package-must-activate-ldconfig-trigger usr/lib/libSeetaFaceAntiSpoofingX600d.so
+seetaface-anti-spoofing-x: shlib-without-PT_GNU_STACK-section usr/lib/libSeetaFaceAntiSpoofingX600d.so
