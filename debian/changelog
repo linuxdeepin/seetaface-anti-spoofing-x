@@ -1,3 +1,9 @@
+seetaface-anti-spoofing-x (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix build issues
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Thu, 09 Dec 2021 19:30:16 +0800
+
 seetaface-anti-spoofing-x (1.0.0-1) unstable; urgency=medium
 
   * Initial release 
