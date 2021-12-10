@@ -1,3 +1,9 @@
+seetaface-anti-spoofing-x (1.0.0.2-1+dde) UNRELEASED; urgency=medium
+
+  * Fix conflict files with seetaface-boxes
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Fri, 10 Dec 2021 13:12:34 +0800
+
 seetaface-anti-spoofing-x (1.0.0.1-1+dde) unstable; urgency=medium
 
   * Fix build issues
